@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "elist": [
+    { "id": 1, "name": "json-server", "email": "typicode" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "reject": [
+    { "id": 1, "name": "some comment", "email": "navneetburman900@gmail.com" }
   ],
-  "profile": { "name": "typicode" }
+  "accept": [{ "name": "typicode" ,"email":"huusain@gmail.com"}]
 }
